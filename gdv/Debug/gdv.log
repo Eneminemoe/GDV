@@ -1,3 +1,7 @@
 ﻿  gdv.cpp
-d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(40): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(42): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(83): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(84): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(85): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(86): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
   gdv.vcxproj -> D:\Documents\Visual Studio\Projects\gdv\Debug\gdv.exe

@@ -2,4 +2,4 @@
 
 void RenderScene();
 void Reshape(int,int);
-void square();
+void square(float,float);
