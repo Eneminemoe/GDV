@@ -1,0 +1,3 @@
+﻿  gdv.cpp
+d:\documents\visual studio\projects\gdv\gdv\gdv.cpp(40): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  gdv.vcxproj -> D:\Documents\Visual Studio\Projects\gdv\Debug\gdv.exe
