@@ -24,12 +24,24 @@
     <ClInclude Include="gdv.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Drohne.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Wuerfel.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="gdv.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Drohne.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Wuerfel.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

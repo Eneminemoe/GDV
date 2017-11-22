@@ -1,5 +1,24 @@
 #pragma once
+#include "Drohne.h"
+#define SPEED 0.05f
+#define SPEEDOBJECT 0.3f
+#define ESCAPEKEY 27
+#define GAMESPEED 2
+#define SCROLLUP 3
+#define SCROLLDOWN 4
+enum direction {LEFT,RIGHT,UP,DOWN};
+
 
 void RenderScene();
 void Reshape(int,int);
-void square(float,float);
+void square(float,float,float);
+void Wuerfel(GLfloat, GLfloat);
+void getInput(unsigned char,int ,int);
+void MouseFunc(int, int, int, int);
+void MotionP(int , int);
+void SpecialFunc(int, int , int );
+void drawSnowMan();
+void drawGrid();
+void moveCameraKeyboard(float,direction);
+void Animate(int);
+void idle();
