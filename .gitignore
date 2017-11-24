@@ -304,7 +304,6 @@ __pycache__/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -314,7 +313,6 @@ __pycache__/
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
