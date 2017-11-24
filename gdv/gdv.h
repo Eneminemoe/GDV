@@ -1,7 +1,8 @@
 #pragma once
 #include "Drohne.h"
+#include "GL/SOIL.h"
 #define CAMERASPEED 0.05f
-#define SPEEDOBJECT 0.001f
+#define SPEEDOBJECT .005f
 #define ESCAPEKEY 27
 #define GAMESPEED 2
 #define SCROLLUP 3
@@ -24,3 +25,4 @@ void moveCameraKeyboard(float,direction);
 void Animate(int);
 void idle();
 void moveDrone(int);
+void drawTree(float, int);
