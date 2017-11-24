@@ -6,6 +6,7 @@
 #define GAMESPEED 2
 #define SCROLLUP 3
 #define SCROLLDOWN 4
+
 enum direction {LEFT,RIGHT,UP,DOWN,FORWARD,BACKWARD};
 
 
