@@ -1,5 +1,6 @@
 #pragma once
 #include "Drohne.h"
+#include "Snowflake.h"
 #define CAMERASPEED 0.05f
 #define SPEEDOBJECT 0.001f
 #define ESCAPEKEY 27

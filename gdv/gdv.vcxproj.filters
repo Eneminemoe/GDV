@@ -30,6 +30,9 @@
     <ClInclude Include="Wuerfel.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Snowflake.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -42,6 +45,9 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Wuerfel.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Snowflake.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
