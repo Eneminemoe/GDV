@@ -318,3 +318,5 @@ __pycache__/
 *.exe
 *.out
 *.app
+.vs/gdv/v15/.suo
+.vs/gdv/v15/ipch/AutoPCH/1fd25e6413b9bd74/GDV.ipch
